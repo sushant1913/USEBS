@@ -139,7 +139,7 @@ nav img {
   border-radius: 10px;
   padding: 12px 34px;
   font-size: 23px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   background: transparent;
   position: relative;
   cursor: pointer;
@@ -278,8 +278,8 @@ align-items: center;
   text-align: center;
 }
 .yes p{
-  font-size: 21px;
-  font-family: 'Satisfy', cursive;
+  font-size: 19px;
+ 
 margin-top: 18%;
 margin-left: 3%;
 }
